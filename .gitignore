@@ -12,3 +12,11 @@ docs/
 
 # Dotenv file
 .env
+
+# Imports
+node_modules/
+yarn.lock
+
+# Misc
+.DS_Store
+settings.json
